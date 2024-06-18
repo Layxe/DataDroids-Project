@@ -136,3 +136,9 @@ data/
 my_awesome_model/
 best-checkpoints
 roberta-base-sentence-relation/
+models/
+cached*
+logs
+glue_data/**/*
+glue_data/
+!glue_data/RTE/
