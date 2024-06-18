@@ -140,3 +140,5 @@ models/
 cached*
 logs
 glue_data/**/*
+glue_data/
+!glue_data/RTE/
