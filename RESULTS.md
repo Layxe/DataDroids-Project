@@ -135,4 +135,12 @@ Furthermore, we trained all models on the same data, but all languages except en
 
 ### Results on Cross Dataset Training
 
-The next step for us is cross dataset training, combining further datasets.
+The next step for us is cross dataset training, combining further datasets. We used a sample of the MNLI dataset giving us 8x more data (~100.000) training data. The test dataset stays the same as in previous examples. Due to the long training time (3h per epoch) we started only trying out ROBERTA.
+
+After training for 5 more epochs we evaluated the accuracy for our origin test data. The hyperparameters were the same as in the previous training.
+
+| Metric   | ROBERTA All Languages | Roberta Only English |
+| -------- | --------------------- | -------------------- |
+| Accuracy | 0.68783               | 0.86098              |
+| F1-Score | 0.68789               | 0.8597               |
+| Runtime  | 39.33 s               | 8.72 s               |
