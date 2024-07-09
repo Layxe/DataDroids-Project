@@ -23,4 +23,7 @@ Our data analysis can be found in [this notebook](/01-final-project-notebooks/Pr
 
 ## Results
 
-A detailed description of our results and next steps can be found [here](/RESULTS.md).
+A detailed description of our results and next steps can be found [here](/RESULTS.md). You can
+train the best performing model using this command:
+
+    python train_final_model.py
