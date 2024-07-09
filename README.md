@@ -1,4 +1,4 @@
-# ki-lab-ss23
+# DataDroids-Project
 
 This project was created as part of the Master AI Lab at Karlsruhe University of Applied Sciences. It deals with the [Contradictory, My Dear Watson](https://www.kaggle.com/competitions/contradictory-my-dear-watson) NLP kaggle challenge. We used several approaches such as a probabilistic approach, forest based methods and deep learning methods and compared their results to each other.
 
