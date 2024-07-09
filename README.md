@@ -15,11 +15,11 @@ Developers:
 - [ki-lab-ss23](#ki-lab-ss23)
     - [Table Of Contents](#table-of-content)
     - [Data Analysis](#data-analysis)
-    - [Results](#results) 
+    - [Results](#results)
 
 ## Data Analysis
 
-Our data analysis can be found in [this notebook](/final-project/ProjectWork_1.ipynb).
+Our data analysis can be found in [this notebook](/01-final-project-notebooks/ProjectWork_1.ipynb).
 
 ## Results
 
